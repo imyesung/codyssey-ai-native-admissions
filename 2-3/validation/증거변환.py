@@ -1,6 +1,6 @@
 """실제 브라우저 녹화 두 개를 나란히 놓고 GIF와 PDF 미리보기를 만든다.
 
-사용법: python3 2-3/검증/증거변환.py /tmp/codyssey-2-3-evidence
+사용법: python3 2-3/validation/증거변환.py /tmp/codyssey-2-3-evidence
 Python 표준 라이브러리, ffmpeg, ImageMagick, Poppler를 사용한다.
 """
 import hashlib
